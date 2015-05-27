@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-gdfgdfgdfgdfgdfgdf1
-=======
-﻿#include <iostream>
-gdfgdfgdfgdfgdfgdf
->>>>>>> 169348c3b823e5afaddd5696b131de40f00685ac
+﻿
 #include <iomanip>
 
 
