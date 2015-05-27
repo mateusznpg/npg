@@ -1,4 +1,4 @@
-gdfgdfgdfgdfgdfgdf
+gdfgdfgdfgdfgdfgdf1
 #include <iomanip>
 
 Macierz::Macierz(int rows, int cols) {                   //kostruktor
