@@ -1,5 +1,5 @@
-#include "macierz.h"
-#include <iomanip>
+﻿#include "macierz.h"
+#include <iostream>
 
 Macierz::Macierz(int rows, int cols) {                   //kostruktor
     
