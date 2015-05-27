@@ -1,4 +1,4 @@
-#include "macierz.h"
+gdfgdfgdfgdfgdfgdf
 #include <iomanip>
 
 Macierz::Macierz(int rows, int cols) {                   //kostruktor
