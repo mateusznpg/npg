@@ -1,4 +1,4 @@
-drzewo: main.o drzewo.o
+yyyyyyyyyyyyyyyyyyyyyyyyy
 	gcc main.o drzewo.o -o drzewo
 
 main.o: main.c
