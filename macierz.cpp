@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿#include "macierz.h"
 #include <iostream>
+=======
+gdfgdfgdfgdfgdfgdf
+#include <iomanip>
+>>>>>>> fd121739b4c655e666d0df508521d4e60897f10d
 
 Macierz::Macierz(int rows, int cols) {                   //kostruktor
     
